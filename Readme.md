@@ -1,6 +1,3 @@
-Sure, here's a simple README file that instructs how to install the dependencies and run the project:
-
-```markdown
 # Simple Login System with MongoDB, Express, and Mongoose
 
 This is a simple login system built using MongoDB, Express.js, and Mongoose. It allows users to create accounts, log in, and update their passwords.
@@ -56,4 +53,4 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 ## License
 
-DOn't have premit 
+This project does not have a license.
