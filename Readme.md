@@ -56,7 +56,4 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
-```
-
-You can place this README file in the root directory of your project. It provides clear instructions on how to install dependencies, set up MongoDB, start the server, and use the application.
+DOn't have premit 
